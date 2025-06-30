@@ -22,15 +22,6 @@ Minimalist by design, maximalist in execution.
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adwerse&show_icons=true&hide_title=true&hide_rank=true&hide=issues&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwerse&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
 
 ### 📫 Reach Me
 
