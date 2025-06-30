@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Adam Vakar</h1>
 
-<!--
-**Adwerse/Adwerse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>writing code like it's craft.</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧭 About
+
+I'm a developer who enjoys building thoughtful software.  
+I care about clean architecture, meaningful interaction, and elegant solutions.  
+Minimalist by design, maximalist in execution.
+
+---
+
+### 🛠️ Tech Stack
+
+- Languages: Python, JavaScript/TypeScript, Solidity
+- Tools: Git, Docker, Hardhat, Unity, GameMaker
+- IDEs: PyCharm, VS Code, Eclipse
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adwerse&show_icons=true&hide_title=true&hide_rank=true&hide=issues&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwerse&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Reach Me
+
+You can find me wandering around code, caffeine, and keyboards.  
+But if you must:
+ 
+- Telegram: @adwerse
+
+---
+
+<p align="center">
+  <em>less is more.</em>
+</p>
