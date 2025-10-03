@@ -17,7 +17,7 @@ Minimalist by design, maximalist in execution.
 ### 🛠️ Tech Stack
 
 - Languages: Python, JavaScript/TypeScript, Solidity
-- Tools: Git, Docker, Hardhat, Unity, GameMaker
+- Tools: Git, Docker, Hardhat
 - IDEs: PyCharm, VS Code, Eclipse
 
 ---
