@@ -24,10 +24,10 @@
 ## Background
 
 - 🎓 **2nd year, AI Engineering** — TUS Athlone (BSc Software Design with AI for Cloud Computing)
-- 🏭 **AI Intern @ Ericsson** — anomaly detection on production data · secured in Year 2, not Year 3
+- 🏭 **AI Intern @ Ericsson** — anomaly detection on production data · secured in Year 2
 - 📊 **Kaggle Dataset Expert** — ranked #194 of 8,000+ · top 2.4% globally
-- 🎙️ **Class Representative** — elected voice for the AI Engineering cohort at TUS
-- 🧬 **Built a transformer from scratch** — [Mini_LLM](https://github.com/Adwerse/Mini_LLM), not from a tutorial
+- 🎙️ **Class Representative** — elected voice for the AI & CLoud Engineering cohort at TUS
+- 🧬 **Built a transformer from scratch** — [Mini_LLM](https://github.com/Adwerse/Mini_LLM)
 
 ---
 
