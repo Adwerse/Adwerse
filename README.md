@@ -46,10 +46,8 @@ learning   = ["QLoRA fine-tuning", "Vector DBs", "MLOps pipelines"]
 
 ## How I think
 
-I build things to understand how they break.  
-Most of my projects start at the implementation level — not the tutorial level.
-
-Currently focused on: **making ML systems production-ready, not just notebook-ready.**
+I build things to understand how they break. 
+Currently focused on: **making ML systems production-ready**
 
 ---
 
