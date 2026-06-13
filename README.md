@@ -2,11 +2,11 @@
 
 # Adam Vakar
 
-**ML Engineer** · TUS Athlone, Ireland
+**AI/ML & Backend Engineering Student · Ericsson R&D Intern**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adamvakar-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/adamvakar)
 [![Kaggle](https://img.shields.io/badge/Kaggle-adamvakar-20BEFF?style=flat&logo=kaggle)](https://kaggle.com/adamvakar)
-[![Email](https://img.shields.io/badge/Email-Adwerse.2005%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:Adwerse.2005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-adamvakar11%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:adamvakar11@gmail.com)
 
 </div>
 
@@ -17,14 +17,15 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [**Full-ML-Pipeline**](https://github.com/Adwerse/Full-ML-Pipeline) | End-to-end ML pipeline: ingestion → training → FastAPI serving | Python · Scikit-learn · Docker |
-| [**Mini_LLM**](https://github.com/Adwerse/Mini_LLM) | Transformer built from scratch to understand LLMs at the weight level | Python · PyTorch |
+| [**Mini_LLM**](https://github.com/Adwerse/Mini_LLM) | 3-layer APP with Transformer built from scratch to understand LLMs at the weight level | Python · PyTorch |
 
 ---
 
 ## Background
 
 - 🎓 **2nd year, AI Engineering** — TUS Athlone (BSc Software Design with AI for Cloud Computing)
-- 🏭 **AI Intern @ Ericsson** — anomaly detection on production data · secured in Year 2
+- 🏭 **AI Intern @ Ericsson** — cloud/platform engineering, Cloud RAN test migration, automation tooling
+- 🥈 **2nd Place, Claude Hackathon @ TCD** — built Voxify, a student feedback platform
 - 📊 **Kaggle Dataset Expert** — ranked #194 of 8,000+ · top 2.4% globally
 - 🎙️ **Class Representative** — elected voice for the AI & CLoud Engineering cohort at TUS
 - 🧬 **Built a transformer from scratch** — [Mini_LLM](https://github.com/Adwerse/Mini_LLM)
