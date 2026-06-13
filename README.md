@@ -17,7 +17,8 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [**Full-ML-Pipeline**](https://github.com/Adwerse/Full-ML-Pipeline) | End-to-end ML pipeline: ingestion → training → FastAPI serving | Python · Scikit-learn · Docker |
-| [**Mini_LLM**](https://github.com/Adwerse/Mini_LLM) | 3-layer APP with Transformer built from scratch to understand LLMs at the weight level | Python · PyTorch |
+| [**Mini_LLM**](https://github.com/Adwerse/Mini_LLM) | 3-layer APP with Transformer built from scratch to understand LLMs at the weight level | FastAPI, React, Python · PyTorch |
+| [**StudyPilot**](https://github.com/Adwerse/Study-Pilot) | Full-stack Agentic learning platform with RAG & ML | Agents, PostgreSQL/pgvector, Docker, FastAPI |
 
 ---
 
