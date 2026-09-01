@@ -12,7 +12,7 @@
 
 ## Background
 
-- 🎓 **2nd year, AI Engineering** — TUS Athlone (BSc Software Design with AI for Cloud Computing)
+- 🎓 **3rd year, Software Engineering** — TUS Athlone (BSc Software Design with AI for Cloud Computing)
 - 🏭 **AI Intern @ Ericsson** — cloud/platform engineering, Cloud RAN test migration, automation tooling
 - 🥈 **2nd Place, Claude Hackathon @ TCD** — built Voxify, a student feedback platform
 - 📊 **Kaggle Dataset Expert** — ranked #194 of 8,000+ · top 2.4% globally
