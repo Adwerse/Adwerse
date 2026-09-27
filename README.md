@@ -26,12 +26,13 @@
 ## Tech
 
 ```python
-focus      = ["LLMs", "ML Engineering", "Data Pipelines", "MLOps"]
-languages  = ["Python", "JavaScript / TypeScript", "Java"]
+focus      = ["LLMs & Agents", "ML Engineering", "Backend & Distributed Systems"]
+languages  = ["Python", "Go", "Java", "TypeScript", "SQL"]
 ml_stack   = ["PyTorch", "Scikit-learn", "NumPy", "Pandas", "Hugging Face"]
 llm_tools  = ["Anthropic SDK", "OpenAI SDK", "Ollama", "RAG", "Multi-agent systems"]
-infra      = ["Docker", "Git", "FastAPI", "PostgreSQL"]
-learning   = ["QLoRA fine-tuning", "Vector DBs", "MLOps pipelines"]
+backend    = ["FastAPI", "gRPC", "Kafka", "PostgreSQL", "pgvector"]
+infra      = ["Docker", "Kubernetes", "Linux", "Git", "Jenkins", "CI/CD"]
+learning   = ["QLoRA fine-tuning", "MLOps pipelines"]
 ```
 
 ---
@@ -39,10 +40,10 @@ learning   = ["QLoRA fine-tuning", "Vector DBs", "MLOps pipelines"]
 ## How I think
 
 I build things to understand how they break. 
-Currently focused on: **making ML systems production-ready**
+Currently focused on: **Backend & Distributed Systemsy**
 
 ---
 
 <div align="center">
-<sub>Open to research collaborations, internship opportunities, and honest technical conversations.</sub>
+<sub>Open to 2027 software engineering and ML internships in Ireland.</sub>
 </div>
