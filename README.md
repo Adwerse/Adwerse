@@ -12,12 +12,14 @@
 
 ## Background
 
-- 🎓 **3rd year, Software Engineering** — TUS Athlone (BSc Software Design with AI for Cloud Computing)
-- 🏭 **AI Intern @ Ericsson** — cloud/platform engineering, Cloud RAN test migration, automation tooling
-- 🥈 **2nd Place, Claude Hackathon @ TCD** — built Voxify, a student feedback platform
-- 📊 **Kaggle Dataset Expert** — ranked #194 of 8,000+ · top 2.4% globally
-- 🎙️ **Class Representative** — elected voice for the AI & CLoud Engineering cohort at TUS
-- 🧬 **Built a transformer from scratch** — [Mini_LLM](https://github.com/Adwerse/Mini_LLM)
+- 🎓 **3rd year, BSc Software Design with AI for Cloud Computing** · TUS Athlone, First Class Honours in Years 1 and 2
+- 🏭 **Software Engineering Intern @ Ericsson R&D** (return offer) · agent tooling and Cloud RAN test migration, cut incorrect migration outputs by 20%
+- 🏆 **Top 8 of 40 teams, GTM Hackathon** · presented to judges from OpenAI
+- 🥈 **2nd Place, Claude Hackathon @ TCD** · built Voxify, a student feedback platform
+- 🚀 **Selected for Google's Student AI Hackathon 2026** · one of ~50 students across Ireland
+- 📊 **Kaggle Dataset Expert** · ranked #194 of 8,000+, top 2.4% globally
+- 🧑‍💻 **Founder & President, Computer Science Society @ TUS** · 40+ members
+- 🎙️ **Class Representative** · elected by the AI & Cloud cohort at TUS
 
 ---
 
