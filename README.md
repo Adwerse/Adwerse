@@ -42,6 +42,8 @@ learning   = ["QLoRA fine-tuning", "MLOps pipelines"]
 I build things to understand how they break. 
 Currently focused on: **Backend & Distributed Systemsy**
 
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adwerse&show_icons=true&theme=dark)
+
 ---
 
 <div align="center">
