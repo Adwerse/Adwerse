@@ -13,10 +13,12 @@
 ## Background
 
 - 🎓 **3rd year, BSc Software Design with AI for Cloud Computing** · TUS Athlone, First Class Honours in Years 1 and 2
-- 🏭 **Software Engineering Intern @ Ericsson R&D** · agent tooling and Cloud RAN test migration
-- 🏆 **Top 8 of 40 teams, GTM Hackathon** · presented to judges from OpenAI
+- 🏭 **Software Engineering Intern @ Ericsson R&D** · agent tooling and Cloud RAN test migration, return offer received
+- 🏆 **Winner accross 40+ teams, Build for Ireland Hackathon** · OpenAI x Dogpatch Labs, Dublin AI Week 2026, built HomesAbove
+- 🎯 **Top 8 of 40 teams, GTM Hackathon** · presented to judges from OpenAI
 - 🥈 **2nd Place, Claude Hackathon @ TCD** · built Voxify, a student feedback platform
 - 🚀 **Selected for Google's Student AI Hackathon 2026** · one of ~50 students across Ireland
+- 🍃 **Selected for MongoDB Student Builder Day 2026** · from 500+ applicants
 - 📊 **Kaggle Dataset Expert** · ranked #194 of 8,000+, top 2.4% globally
 - 🧑‍💻 **Founder & President, Computer Science Society @ TUS** · 40+ members
 - 🎙️ **Class Representative** · elected by the AI & Cloud cohort at TUS
@@ -30,7 +32,7 @@ focus      = ["LLMs & Agents", "ML Engineering", "Backend & Distributed Systems"
 languages  = ["Python", "Go", "Java", "TypeScript", "SQL"]
 ml_stack   = ["PyTorch", "Scikit-learn", "NumPy", "Pandas", "Hugging Face"]
 llm_tools  = ["Anthropic SDK", "OpenAI SDK", "Ollama", "RAG", "Multi-agent systems"]
-backend    = ["FastAPI", "gRPC", "Kafka", "PostgreSQL", "pgvector"]
+backend    = ["FastAPI", "gRPC", "Kafka", "PostgreSQL", "pgvector", "MongoDB"]
 infra      = ["Docker", "Kubernetes", "Linux", "Git", "Jenkins", "CI/CD"]
 learning   = ["QLoRA fine-tuning", "MLOps pipelines"]
 ```
@@ -39,8 +41,8 @@ learning   = ["QLoRA fine-tuning", "MLOps pipelines"]
 
 ## How I think
 
-I build things to understand how they break. 
-Currently focused on: **Backend & Distributed Systemsy**
+I build things to understand how they break.
+Currently focused on: **Backend & Distributed Systems**
 
 ---
 
