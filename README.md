@@ -14,7 +14,7 @@
 
 - 🎓 **3rd year, BSc Software Design with AI for Cloud Computing** · TUS Athlone, First Class Honours in Years 1 and 2
 - 🏭 **Software Engineering Intern @ Ericsson R&D** · agent tooling and Cloud RAN test migration, return offer received
-- 🏆 **Winner accross 40+ teams, Build for Ireland Hackathon** · OpenAI x Dogpatch Labs, Dublin AI Week 2026, built HomesAbove
+- 🏆 **Winner accross 40+ teams, Build for Ireland Hackathon** · OpenAI x Dogpatch Labs, Dublin AI Week 2026
 - 🎯 **Top 8 of 40 teams, GTM Hackathon** · presented to judges from OpenAI
 - 🥈 **2nd Place, Claude Hackathon @ TCD** · built Voxify, a student feedback platform
 - 🚀 **Selected for Google's Student AI Hackathon 2026** · one of ~50 students across Ireland
