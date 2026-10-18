@@ -29,7 +29,7 @@
 
 ```python
 focus      = ["LLMs & Agents", "ML Engineering", "Backend & Distributed Systems"]
-languages  = ["Python", "Go", "Java", "TypeScript", "SQL"]
+languages  = ["Python", "Go", "Java", "TypeScript", "SQL", "Rust"]
 ml_stack   = ["PyTorch", "Scikit-learn", "NumPy", "Pandas", "Hugging Face"]
 llm_tools  = ["Anthropic SDK", "OpenAI SDK", "Ollama", "RAG", "Multi-agent systems"]
 backend    = ["FastAPI", "gRPC", "Kafka", "PostgreSQL", "pgvector", "MongoDB"]
