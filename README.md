@@ -36,6 +36,10 @@ backend    = ["FastAPI", "gRPC", "Kafka", "PostgreSQL", "pgvector", "MongoDB"]
 infra      = ["Docker", "Kubernetes", "Linux", "Git", "Jenkins", "CI/CD"]
 learning   = ["QLoRA fine-tuning", "MLOps pipelines"]
 ```
+<div align="center">
+  <img height="170" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=Adwerse&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img height="170" alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adwerse&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
