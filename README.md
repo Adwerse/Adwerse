@@ -2,7 +2,7 @@
 
 # Adam Vakar
 
-**AI/ML & Backend Engineering Student · Ericsson R&D Intern**
+**AI/ML & Backend Engineering Student · Incoming SWE Intern @ Red Hat**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adamvakar-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/adamvakar)
 [![Kaggle](https://img.shields.io/badge/Kaggle-adamvakar-20BEFF?style=flat&logo=kaggle)](https://kaggle.com/adamvakar)
@@ -51,5 +51,5 @@ Currently focused on: **Backend & Distributed Systems**
 ---
 
 <div align="center">
-<sub>Open to 2027 software engineering and ML internships in Ireland.</sub>
+<sub>Joining Red Hat's Agent Operations team in January 2027. Always happy to talk about AI agents, open source and backend systems.</sub>
 </div>
